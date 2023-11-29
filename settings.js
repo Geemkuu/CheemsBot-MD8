@@ -23,15 +23,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['254757422843'] //ur owner number
 global.ownernomer = "254794286079" //ur owner number2
-global.ownername = "🦄Dream Guy 亗『ＧＥＥ』亗" //ur owner name
+global.ownername = "🦄Dream Guy GEE" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Cheems Bot 亗『ＧＥＥ』亗"
+global.botname = "Cheems Bot GEE"
 global.ownernumber = '254757422843'
-global.ownername = '🦄드림 가이 亗『ＧＥＥ』亗'
+global.ownername = '🦄드림 가이 ＧＥＥ'
 global.ownerNumber = ["254757422843@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
