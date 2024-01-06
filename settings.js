@@ -21,7 +21,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['254782991035'] //ur owner number
+global.owner = ['254700569709'] //ur owner number
 global.ownernomer = "254794286079" //ur owner number2
 global.ownername = "亗『ＧＥＥ』亗" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
@@ -30,18 +30,18 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "n͜͡önesence ×"
-global.ownernumber = '254757422843'
-global.ownername = 'ＧＥＥ'
-global.ownerNumber = ["254757422843@s.whatsapp.net"]
+global.ownernumber = '254700569709'
+global.ownername = '亗『ＧＥＥ』亗'
+global.ownerNumber = ["254700569709@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
 global.themeemoji = '🚮'
 global.wm = "nonesence"
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
-global.author = "GEE"
-global.creator = "254715140785@s.whatsapp.net"
+global.packname = "n͜͡önesence × By"
+global.author = "亗『ＧＥＥ』亗"
+global.creator = "254700569709@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go!', 
+    success: 'n͜͡önesence × by 亗『ＧＥＥ』亗!', 
 }
 
 let file = require.resolve(__filename)
