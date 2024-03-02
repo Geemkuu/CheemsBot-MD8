@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
@@ -21,37 +21,37 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['254700569709'] //ur owner number
-global.ownernomer = "254794286079" //ur owner number2
+global.owner = ['254794286079'] //ur owner number
+global.ownernomer = "254700569709" //ur owner number2
 global.ownername = "亗『ＧＥＥ』亗" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: nonesencelover" //ur yt chanel name
+global.socialm = "GitHub: Geemkuu" //ur github or insta name
+global.location = "Africa,Nairobi " //ur location
 
 //new
 global.botname = "n͜͡önesence ×"
-global.ownernumber = '254700569709'
+global.ownernumber = '254794286079'
 global.ownername = '亗『ＧＥＥ』亗'
-global.ownerNumber = ["254700569709@s.whatsapp.net"]
+global.ownerNumber = ["254794286079@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.wagc = "https://wa.me/254794286079?text=hey+gee+i+love+your+work😘+if+i+am+girl+i+want+to+be+yours"
 global.themeemoji = '🚮'
 global.wm = "nonesence"
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.botscript = 'https://github.com/geemkuu/CheemsBot-MD8' //script link
 global.packname = "n͜͡önesence × By"
 global.author = "亗『ＧＥＥ』亗"
-global.creator = "254700569709@s.whatsapp.net"
+global.creator = "254794286079@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 
 //media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
+global.thum = fs.readFileSync("./XeonMedia/theme/Cheemspic.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/Cheemspic.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/Cheemspic.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/Cheemspic.jpg") //ur thumb pic
+global.defaultpp = 'https://telegra.ph/file/45040426cb67297d211b8.jpg' //default pp wa
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
