@@ -21,7 +21,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['254794286079'] //ur owner number
+global.owner = ['254700569709'] //ur owner number
 global.ownernomer = "254700569709" //ur owner number2
 global.ownername = "亗『ＧＥＥ』亗" //ur owner name
 global.ytname = "YT: nonesencelover" //ur yt chanel name
@@ -30,18 +30,18 @@ global.location = "Africa,Nairobi " //ur location
 
 //new
 global.botname = "n͜͡önesence ×"
-global.ownernumber = '254794286079'
+global.ownernumber = '254700569709'
 global.ownername = '亗『ＧＥＥ』亗'
-global.ownerNumber = ["254794286079@s.whatsapp.net"]
+global.ownerNumber = ["254700569709@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://wa.me/254794286079?text=hey+gee+i+love+your+work😘+if+i+am+girl+i+want+to+be+yours"
+global.wagc = "https://wa.me/254700569709?text=hey+gee+i+love+your+work😘+if+i+am+girl+i+want+to+be+yours"
 global.themeemoji = '🚮'
 global.wm = "nonesence"
 global.botscript = 'https://github.com/geemkuu/CheemsBot-MD8' //script link
 global.packname = "n͜͡önesence × By"
 global.author = "亗『ＧＥＥ』亗"
-global.creator = "254794286079@s.whatsapp.net"
+global.creator = "254700569709@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
